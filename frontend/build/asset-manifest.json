@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dce191c7.css",
+    "main.js": "/static/js/main.a00e357a.js",
+    "static/media/admin-background.jpg": "/static/media/admin-background.2e2ba76078ae2ce10a60.jpg",
+    "static/media/Codechef.png": "/static/media/Codechef.0665998b41e92e96d400.png",
+    "static/media/codeforces.png": "/static/media/codeforces.96bb50519dd2c1c64623.png",
+    "static/media/google.svg": "/static/media/google.9f806a3ea4afe6beeb89a4ef63e47708.svg",
+    "static/media/leetcode.png": "/static/media/leetcode.b6033a9f02cf45b6aa3f.png",
+    "static/media/facebook.svg": "/static/media/facebook.3fec1a467cc8a4c131b3121ac1a3cad4.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.bc5e62d8dd29c3a56f432eb4a65d2f90.svg",
+    "index.html": "/index.html",
+    "static/media/password.svg": "/static/media/password.5f799c7c2969491dca40.svg",
+    "static/media/mail.svg": "/static/media/mail.fd5ed815d63098c640bc.svg",
+    "static/media/user.svg": "/static/media/user.3bb0817af96cc64148a7.svg",
+    "main.dce191c7.css.map": "/static/css/main.dce191c7.css.map",
+    "main.a00e357a.js.map": "/static/js/main.a00e357a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dce191c7.css",
+    "static/js/main.a00e357a.js"
+  ]
+}
